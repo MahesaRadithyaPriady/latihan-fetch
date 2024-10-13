@@ -6,7 +6,12 @@
   },
   {
     "id": 2,
-    "name": "Apa Aja Boleh",
-    "email": "apaajaboleh@gmail.com"
+    "name": "Fathan Jamil",
+    "email": "fathanjamil@gmail.com"
+  },
+  {
+    "id" : 3,
+    "name" : "Rio Iskandar",
+    "email": "rioiskandar"
   }
 ]
